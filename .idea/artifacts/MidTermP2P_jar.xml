@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MidTermP2P:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MidTermP2P_jar</output-path>
+    <root id="archive" name="MidTermP2P.jar">
+      <element id="module-output" name="MidTermP2P" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/Magistrale/2_Semestre/P2P&amp;Blockchains/jfreechart-1.0.19/lib/jcommon-1.0.23.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/Magistrale/2_Semestre/P2P&amp;Blockchains/jfreechart-1.0.19/lib/jfreechart-1.0.19.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/Magistrale/2_Semestre/P2P&amp;Blockchains/commons-lang3-3.7/commons-lang3-3.7.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

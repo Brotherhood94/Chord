@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="commons-lang3-3.7">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/Magistrale/2_Semestre/P2P&amp;Blockchains/commons-lang3-3.7/commons-lang3-3.7.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="https://commons.apache.org/proper/commons-lang/apidocs/index.html" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
